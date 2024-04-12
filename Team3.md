@@ -283,6 +283,16 @@ CATIA는 다양한 도면 템플릿을 제공하며, 사용자는 필요에 따�
 
 3.  offsect section cut에 대해 알아보자면 사용자가 제품 모델의 특정 위치에서 일정 거리 떨어진 곳에 섹션을 만들 수 있는 기능입니다. 이를 통해 사용자는 원하는 위치에 대해 정확한 섹션을 생성하고 제품의 내부 구조를 시각화 해줍니다. 
 
+![스크린샷 2024-04-12 125749](https://github.com/CHOIGANGSAN/OSS_NEW1/assets/166493353/548a064b-f2c0-407f-b263-087af80007d9) 
+
+이 그림과 같이 3d에서 
+
+![스크린샷 2024-04-12 125758](https://github.com/CHOIGANGSAN/OSS_NEW1/assets/166493353/d1aaaea1-c05b-4e05-9d1f-73ddab01a4d4) 
+
+와 같이 정확한 위치에 section을 그릴 수 있다는 장점이 있다.  
+
+또한  
+
 ![스크린샷 2024-04-12 122720](https://github.com/CHOIGANGSAN/OSS_NEW1/assets/166493353/2cf97e35-0bd8-4b6c-b8d3-d3990216d031)  
 
 여기서 빨간 부분을 더블 클릭하면 섹션의 세부 설정으로 들어갈 수 있다고 한다. 
