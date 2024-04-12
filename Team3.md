@@ -145,7 +145,10 @@ ICEM Surf 소프트웨어에는 다양한 도구와 기능이 포함되어 있�
 => ICEM Surf는 디자인 프로세스의 일부로 CAD 시스템과 통합되어 사용될 수 있으며, 다양한 형상 분석 및 시각화 도구를 제공하여 디자이너 및 엔지니어가 디자인의 세부 사항을 검토하고 수정할 수 있도록 지원합니다. 
    이를 통해 제조사는 제품의 디자인을 빠르게 개발하고 최적화할 수 있습니다.
 
+[ICEM Surf 2021은 핵심 모델링 기능]
 ![icem2021-Safety_Analysis_UI_04_da54d655d2](https://github.com/CHOIGANGSAN/OSS_NEW1/assets/165790658/5f651f26-31a1-4469-9e86-09592e3a2447)
+
+[ICEM Surf 2021 Safety Analysis - 새로운 사용자 인터페이스]
 ![icem2021-Wireframe_Performance_0ebb288015](https://github.com/CHOIGANGSAN/OSS_NEW1/assets/165790658/69b30dcf-c8af-4c3f-a80b-a75f2456ebb2)
 
 
