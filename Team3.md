@@ -26,6 +26,7 @@ EX) 한 산업군의 경우 필요한 모듈만 포함하면 1Copy 당 초기도
 
 
 3. 주요기능
+   
 1- Part Design(부품 디자인)_ 권석율
 CATIA(Computer Aided Three dimensional Lnteractive Application)는 2D도면에 특화된 AUTOCAD와 같이 CAD 프로그램의 한 종류로 
 프랑스의 ‘다쏘’ 시스템에서 자동차나 항공기를 설계하고 개발하기 위해 만든 3차원 컴퓨터 지원 설계 프로그램입니다. 전 세계를 포함 
@@ -188,8 +189,6 @@ Generative shape design이라고 불리는 생성 형상 디자인은 고급 3D 
 이를 통해 사용자는 디자인 프로세스를 향상시키고 최종 결과물의 품질을 향상시킬 수 있습니다.
 
 
-
-
 5- CATIA Kinematics(운동학)_ 유호윤
 CATIA의 다양한 기능 중에서 Kinematics(운동학)에 대해 설명하겠습니다.
 CATIA Kinematics는 디지털 디자인 및 제조 소프트웨어인 CATIA의 한 부분입니다. 이는 다양한 산업 분야에서 사용되는 고급 CAD/CAM/CAE 솔루션입니다. CATIA Kinematics는 제품이 움직이는 방식을 시뮬레이션하고 분석하는 기능을 제공합니다.
@@ -234,9 +233,6 @@ CATIA Kinematics를 사용하면 기계 부품이나 제품의 움직임을 설�
 4. 복잡성: CATIA Kinematics는 복잡한 시스템을 모델링하고 시뮬레이션하는 데 사용될 수 있지만, 이는 종종 사용자에게 높은 수준의 이해와 기술을 요구할 수 있습니다.
 
 이러한 장단점을 고려하여 CATIA Kinematics의 적합성을 평가하고 사용할 수 있으며 위 실사례에 적용해나갈 수 있습니다.
-
-
-
 
 
 6- CATIA Drafting(도면 작성)_ 정성훈
