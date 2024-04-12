@@ -146,6 +146,7 @@ ICEM Surf 소프트웨어에는 다양한 도구와 기능이 포함되어 있�
    이를 통해 제조사는 제품의 디자인을 빠르게 개발하고 최적화할 수 있습니다.
 
 ![icem2021-Safety_Analysis_UI_04_da54d655d2](https://github.com/CHOIGANGSAN/OSS_NEW1/assets/165790658/5f651f26-31a1-4469-9e86-09592e3a2447)
+![icem2021-Wireframe_Performance_0ebb288015](https://github.com/CHOIGANGSAN/OSS_NEW1/assets/165790658/69b30dcf-c8af-4c3f-a80b-a75f2456ebb2)
 
 
 4- Generative Shape Design(생성 형상 디자인)_ 배태우
