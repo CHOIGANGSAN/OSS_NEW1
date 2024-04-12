@@ -289,7 +289,7 @@ CATIA는 다양한 도면 템플릿을 제공하며, 사용자는 필요에 따�
 
 ![스크린샷 2024-04-12 125758](https://github.com/CHOIGANGSAN/OSS_NEW1/assets/166493353/d1aaaea1-c05b-4e05-9d1f-73ddab01a4d4) 
 
-와 같이 정확한 위치에 section을 그릴 수 있다는 장점이 있다.  
+이 그림과과 같이 정확한 위치에 section을 그릴 수 있다는 장점이 있다.  
 
 또한  
 
